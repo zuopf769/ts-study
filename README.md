@@ -3,12 +3,13 @@
 ## 启动调试命令
 
 ```shell
-npm run dev
+yarn run dev
 ```
 
 ## 文档
 
 ```
 cd website
+yarn install
+yarn run
 ```
-
